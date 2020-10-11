@@ -2,7 +2,7 @@
 [sarathkrishnangs@gmail.com](mailto:sarathkrishnangs@gmail.com)
 [GitHub](https://github.com/Sarathkrishnan) | [LinkedIn](https://www.linkedin.com/in/sarath-krishnan-g-s-aa9b19147/) | [Instagram](https://www.instagram.com/sarathkrishnan.gs/) | [Blog](https://sarathkrishnangs.blogspot.com/)
 
-=
+
 
 ## SKILLS
 ---
