@@ -28,7 +28,7 @@
 : Comfortable with any GNU/Linux OSs, Familiar with hosting platforms like hostinger.
 
 
-=
+
 ## EDUCATION
 ---
 Degree | Board | Institution | Year | Grade
@@ -36,7 +36,7 @@ Degree | Board | Institution | Year | Grade
 BTech | Kerala Technological University | SHM College of Engineering	| 2020 | P
 Intermediate Education (12) | Kerala | Govt H S S Kottarakara | 2016 | 90 %
 Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
-=
+
 ## WORK EXPERIENCE
 ---
 - **PillCart**
@@ -52,7 +52,7 @@ Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
 
 - **[Website](https://tdbcskadakkal.in/)** for CBSE school (Wordpress site) Responsible     for all aspect of the website. *( January 2020 )*
 
-=
+
 ## HOBBY PROJECTS
 ---
 - **My Portfolio Website** Developed     using HTML, CSS, Bootstrap.
@@ -64,7 +64,7 @@ Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
 - **Hobby     graphics design projects** Poster, UI,     UX , logo design using Inkscape vector graphics editor
 [Design]()
 
-=
+
 ## PERSONAL INFOMATION
 ---
 Age
