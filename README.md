@@ -1,4 +1,7 @@
+
+<!---
 ![Screenshot](Resume-Header.jpeg)
+-->
 # SARATHKRISHNAN G S
 > [sarathkrishnangs@gmail.com](mailto:sarathkrishnangs@gmail.com)
   | 
