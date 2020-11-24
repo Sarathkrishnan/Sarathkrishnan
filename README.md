@@ -29,11 +29,12 @@
 **Database**
 : MySQL,  SQLlite
 
+**Graphics Designer**
+: Adobe XD, Figma, Inkscape Vector graphics, Gimp, KdenLive,
+
 **Tools**
 : Git, Jira, Trello
 
-**Graphics Designer**
-: Inkscape Vector graphics, Gimp, KdenLive, Adobe XD
 
 **Others**
 : Comfortable with any GNU/Linux OSs, Familiar with hosting platforms like hostinger
@@ -51,11 +52,11 @@ Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
 ## WORK EXPERIENCE
 ---
 - **Cakecafe**
-: Multi vendor flatform deidcated to CAKE and CAFE. Working as UI designer and FLutter UI developer Intern. *(On going)* 
+: Multi vendor flatform deidcated to CAKES. Working as UI designer and FLutter UI developer Intern. *(On going)* 
 
 - **PillCart**
-: Medicine delivery web and mobile Application. Working as     a UI Designer as well as a Flutter Developer Intern *( On going)*     
-     
+: Medicine delivery web and mobile Application. Working as     a UI Designer as well as a Flutter Developer Intern *( Project Cancelled)*     
+
 - **Neural     network for Wild animal recognition**
 : Train a     neural network based on YOLO algorithm using Darknet framework. *(Final Year Btech project)    ( March 2020 )* [GitHub](https://github.com/Sarathkrishnan/yolo-meta).
 
