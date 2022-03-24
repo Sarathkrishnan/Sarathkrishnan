@@ -15,5 +15,4 @@
 
  🐍 Python Programmer
  
- 👨‍💻 Django | Flutter
   
